@@ -4,7 +4,7 @@
  </p>
 
 <div align="center">
- <img align= "center" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RpeWlrcHk2c2ttZHhlano2M29wZHN2dm5taXJ5dGx0dTcxdWF2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.webp"> 
+ <img align= "center" alt="Coding" width="400" src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif"> 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuneerAhmad7&label=Profile%20views&color=0e75b6&style=flat" alt="MuneerAhmad" /> </p>
 
