@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋</h1> 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=61BF3A&random=false&width=435&lines=Hi!+I+am+Muneer+Ahmad.......;Hope+you+are+doing+well+!;Cyber+Security+Engineer+!;;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3D14EF&width=435&lines=Hi!+I+am+Muneer+Ahmad.......;Hope+you+are+doing+well+!;Cyber+Security+Engineer+!;;" alt="Typing SVG" /></a>
  </p>
 
 <div align="center">
- <img align= "center" alt="Coding" width="400" src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif"> 
+ <img align= "center" alt="Coding" width="500" src="https://media.licdn.com/dms/image/v2/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1574956585476?e=1738195200&v=beta&t=EwoL7wyVQzJeydX7G-GWnISk7EXEQjgljNhhweN7UdM"> 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuneerAhmad7&label=Profile%20views&color=0e75b6&style=flat" alt="MuneerAhmad" /> </p>
 
