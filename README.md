@@ -4,7 +4,7 @@
  </p>
 
 <div align="center">
- <img align= "center" alt="Coding" width="500" src="![image](https://github.com/user-attachments/assets/6d2109d0-bae1-494e-8a9f-5f4154ae8601)
+ <img align= "center" alt="Coding" width="500" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif"
 "> 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuneerAhmad7&label=Profile%20views&color=0e75b6&style=flat" alt="MuneerAhmad" /> </p>
