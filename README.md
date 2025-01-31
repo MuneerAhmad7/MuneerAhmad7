@@ -4,7 +4,8 @@
  </p>
 
 <div align="center">
- <img align= "center" alt="Coding" width="500" src="https://media.licdn.com/dms/image/v2/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1574956585476?e=1738195200&v=beta&t=EwoL7wyVQzJeydX7G-GWnISk7EXEQjgljNhhweN7UdM"> 
+ <img align= "center" alt="Coding" width="500" src="![image](https://github.com/user-attachments/assets/6d2109d0-bae1-494e-8a9f-5f4154ae8601)
+"> 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuneerAhmad7&label=Profile%20views&color=0e75b6&style=flat" alt="MuneerAhmad" /> </p>
 
